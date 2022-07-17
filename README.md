@@ -3,7 +3,7 @@
 This is a proof-of-concept Node.js ransomware.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![david](https://david-dm.org/EL-MTN/Ransomware.svg)
+![trhacknon](https://david-dm.org/EL-MTN/Ransomware.svg)
 
 ## Disclaimers
 
