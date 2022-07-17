@@ -30,7 +30,7 @@ The smart contract for reading ethereum transactions and communicating keys with
 - Clone the repo
 
 ```sh
-git clone https://github.com/
+git clone https://github.com/trhacknon/Ransomware-Node
 ```
 
 - Generate unique key pair
